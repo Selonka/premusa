@@ -1,0 +1,12 @@
+{
+  "##_COMMENT1": "SAMPLE NAME AND TABLE-File",
+  "premusa.input_vcf": "[Input VCF]",
+  "premusa.basename": "[Sample_Name]",
+  "premusa.premusa_docker": "premusa:premusa_01",
+  "premusa.gatk_docker": "broadinstitute/gatk:4.0.3.0",
+  "##_COMMENT3": "REFERENCE FILES",
+  "premusa.ref_fasta_dict": "[Reference].dict",
+  "premusa.ref_fasta": "[Reference].hg19.fasta",
+  "premusa.ref_fasta_fai": "[Reference].fasta.fai"
+}
+
